@@ -1,7 +1,13 @@
 # BeybladeXHelperAltStoreSource
 
 本頁面為 BeybladeXHelper App 安裝指南
+
+## android
+
 android 使用者直接使用 [BeybladeXSPViewer.apk](https://github.com/WCW0310/BeybladeXHelper/releases/download/v1/BeybladeXSPViewer.apk)
+
+## ios
+
 ios 使用者若會自行安裝 .ipa 檔案可直接使用 [BeybladeXSPViewer.ipa](https://github.com/WCW0310/BeybladeXHelper/releases/download/v1/BeybladeXSPViewer.ipa)
 其餘 ios 使用者建議使用 AltStore 進行安裝
 
