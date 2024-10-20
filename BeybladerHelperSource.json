@@ -1,9 +1,9 @@
 {
-    "name": "BeybladeXHelper",
+    "name": "BeybladerHelper",
     "apps": [
         {
-            "name": "BeybladeXHelper",
-            "bundleIdentifier": "com.wayne.weng.BeybladeXSPViewer",
+            "name": "BeybladerHelper",
+            "bundleIdentifier": "com.wayne.weng.BeybladerHelper",
             "developerName": "Wayne Weng",
             "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
@@ -14,13 +14,13 @@
                     "buildVersion": "1",
                     "date": "2024-10-19",
                     "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladeXHelper/releases/download/v1/BeybladeXSPViewer.ipa"
+                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v1/BeybladerHelper.ipa"
                 }
             ],
             "appPermissions": {
                 "entitlements": [],
                 "privacy": {
-                    "NSBluetoothAlwaysUsageDescription": "Allow BeybladeXSPViewer to connect to bluetooth devices"
+                    "NSBluetoothAlwaysUsageDescription": "Allow BeybladerHelper to connect to bluetooth devices"
                 }
             }
         }
