@@ -10,6 +10,13 @@
             "tintColor": "#5CA399",
             "versions": [
                 {
+                    "version": "4.0.0",
+                    "buildVersion": "4",
+                    "date": "2024-10-28",
+                    "size": 10000000,
+                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v4/BeybladerHelper.ipa"
+                },
+                {
                     "version": "3.0.0",
                     "buildVersion": "3",
                     "date": "2024-10-23",
