@@ -14,63 +14,7 @@
                     "buildVersion": "1",
                     "date": "2025-02-04",
                     "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v10/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "9.0.0",
-                    "buildVersion": "1",
-                    "date": "2025-01-14",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v9/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "8.0.0",
-                    "buildVersion": "1",
-                    "date": "2024-12-24",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v8/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "7.0.0",
-                    "buildVersion": "1",
-                    "date": "2024-12-04",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v7/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "6.0.0",
-                    "buildVersion": "6",
-                    "date": "2024-11-24",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v6/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "5.0.0",
-                    "buildVersion": "5",
-                    "date": "2024-11-17",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v5/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "4.0.0",
-                    "buildVersion": "4",
-                    "date": "2024-10-28",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v4/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "3.0.0",
-                    "buildVersion": "3",
-                    "date": "2024-10-23",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v3/BeybladerHelper.ipa"
-                },
-                {
-                    "version": "1.0.0",
-                    "buildVersion": "1",
-                    "date": "2024-10-20",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/WCW0310/BeybladerHelper/releases/download/v2/BeybladerHelper.ipa"
+                    "downloadURL": "https://github.com/WCW0310/BeybladerHelperAltStoreSource/releases/download/v10/BeybladerHelper.ipa"
                 }
             ],
             "appPermissions": {
